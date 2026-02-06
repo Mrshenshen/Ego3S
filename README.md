@@ -252,18 +252,7 @@ Our analysis reveals:
 
 Ego3S achieves 35%+ interaction cue utilization compared to 22% for baseline methods, demonstrating effective grounding in visual interaction evidence.
 
-## Citation
 
-If you find this work useful, please cite:
-
-```bibtex
-@inproceedings{ego3s2026,
-  title={Ego3S: Select, Strengthen, and Synchronize for Efficient Egocentric Reasoning},
-  author={Anonymous},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year={2026}
-}
-```
 
 ## Acknowledgments
 
@@ -279,3 +268,4 @@ This project is released under the MIT License.
 ## Contact
 
 For questions and discussions, please open an issue or contact [contact information will be added after deanonymization].
+
