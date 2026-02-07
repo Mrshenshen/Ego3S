@@ -253,7 +253,6 @@ Our analysis reveals:
 Ego3S achieves 35%+ interaction cue utilization compared to 22% for baseline methods, demonstrating effective grounding in visual interaction evidence.
 
 
-
 ## Acknowledgments
 
 This work builds upon:
@@ -268,4 +267,3 @@ This project is released under the MIT License.
 ## Contact
 
 For questions and discussions, please open an issue or contact [contact information will be added after deanonymization].
-
